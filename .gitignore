@@ -1,3 +1,3 @@
-test
-trisp
-*.o
+# Added by cargo
+/target
+build.sh
